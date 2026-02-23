@@ -1,0 +1,12 @@
+{
+  "name": "@aave-ai/skill-aave-planner",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Installable skill package for AAVE V3 position planning",
+  "license": "MIT",
+  "files": [
+    "SKILL.md",
+    "scripts",
+    "references"
+  ]
+}

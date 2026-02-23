@@ -75,7 +75,7 @@ https://app.aave.com/?marketName={market}&token={token}&amount={amount}&action={
 When users want to preview how an action would affect their position:
 
 \`\`\`bash
-npx tsx packages/plugins/aave-planner/scripts/simulate-position.ts <chainId> <userAddress> <action> <token> <amount>
+npx tsx scripts/simulate-position.ts <chainId> <userAddress> <action> <token> <amount>
 \`\`\`
 
 ## External Resources

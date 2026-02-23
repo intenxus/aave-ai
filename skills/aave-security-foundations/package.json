@@ -1,0 +1,11 @@
+{
+  "name": "@aave-ai/skill-aave-security-foundations",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Installable skill package for AAVE security guidance",
+  "license": "MIT",
+  "files": [
+    "SKILL.md",
+    "references"
+  ]
+}

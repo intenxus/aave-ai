@@ -1,0 +1,11 @@
+{
+  "name": "@aave-ai/skill-aave-viem-integration",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Installable skill package for AAVE viem integration",
+  "license": "MIT",
+  "files": [
+    "SKILL.md",
+    "references"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@aave-ai/skill-aave-risk-assessor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Installable skill package for AAVE risk analysis",
+  "license": "MIT",
+  "files": [
+    "SKILL.md",
+    "references"
+  ]
+}

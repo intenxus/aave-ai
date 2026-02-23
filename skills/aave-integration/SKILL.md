@@ -88,7 +88,7 @@ interface SupplyQuote {
 Fetches current APY data for all whitelisted assets.
 
 \`\`\`bash
-npx tsx packages/plugins/aave-integration/scripts/quote-apy.ts <chainId>
+npx tsx scripts/quote-apy.ts <chainId>
 \`\`\`
 
 ### simulate-position.ts
@@ -96,7 +96,7 @@ npx tsx packages/plugins/aave-integration/scripts/quote-apy.ts <chainId>
 Simulates how an action would affect a user's position.
 
 \`\`\`bash
-npx tsx packages/plugins/aave-integration/scripts/simulate-position.ts <chainId> <userAddress> <action> <token> <amount>
+npx tsx scripts/simulate-position.ts <chainId> <userAddress> <action> <token> <amount>
 \`\`\`
 
 ## External Documentation
