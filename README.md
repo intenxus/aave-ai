@@ -1,4 +1,4 @@
-# AAVE_FARMORE
+# aave-ai
 
 AAVE V3 AI tools (skills, plugins) for developers and AI agents integrating the AAVE protocol.
 
