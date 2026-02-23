@@ -1,0 +1,21 @@
+{
+  "name": "aave-integration",
+  "version": "1.0.0",
+  "description": "Direct AAVE V3 protocol integration for reading on-chain data and executing transactions",
+  "author": {
+    "name": "AAVE AI Contributors",
+    "email": "contributors@aave-ai.dev"
+  },
+  "homepage": "https://github.com/intenxus/aave-ai",
+  "keywords": [
+    "aave",
+    "defi",
+    "lending",
+    "borrowing",
+    "aave-v3",
+    "ethereum",
+    "arbitrum"
+  ],
+  "license": "MIT",
+  "skills": ["./skills/integration"]
+}

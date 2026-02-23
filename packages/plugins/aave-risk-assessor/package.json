@@ -1,0 +1,27 @@
+{
+  "name": "@aave-ai/aave-risk-assessor",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Risk assessment and health factor monitoring for AAVE positions",
+  "author": "0xWeakSheep <oftiyf@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/intenxus/aave-ai.git",
+    "directory": "packages/plugins/aave-risk-assessor"
+  },
+  "keywords": [
+    "claude-code",
+    "plugin",
+    "aave",
+    "defi",
+    "risk",
+    "health-factor"
+  ],
+  "files": [
+    ".claude-plugin",
+    "skills",
+    "agents",
+    "README.md"
+  ]
+}

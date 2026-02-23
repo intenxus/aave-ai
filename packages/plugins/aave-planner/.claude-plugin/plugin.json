@@ -1,0 +1,20 @@
+{
+  "name": "aave-planner",
+  "version": "1.0.0",
+  "description": "Position planning and strategy generation for AAVE V3",
+  "author": {
+    "name": "AAVE AI Contributors",
+    "email": "contributors@aave-ai.dev"
+  },
+  "homepage": "https://github.com/intenxus/aave-ai",
+  "keywords": [
+    "aave",
+    "defi",
+    "lending",
+    "planning",
+    "strategy",
+    "position"
+  ],
+  "license": "MIT",
+  "skills": ["./skills/planner"]
+}

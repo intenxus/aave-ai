@@ -1,0 +1,27 @@
+{
+  "name": "@aave-ai/aave-planner",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Position planning and strategy optimization for AAVE V3",
+  "author": "0xWeakSheep <oftiyf@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/intenxus/aave-ai.git",
+    "directory": "packages/plugins/aave-planner"
+  },
+  "keywords": [
+    "claude-code",
+    "plugin",
+    "aave",
+    "defi",
+    "planning",
+    "strategy"
+  ],
+  "files": [
+    ".claude-plugin",
+    "skills",
+    "agents",
+    "README.md"
+  ]
+}

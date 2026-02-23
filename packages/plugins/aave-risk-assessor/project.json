@@ -1,0 +1,8 @@
+{
+  "name": "aave-risk-assessor",
+  "$schema": "../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "packages/plugins/aave-risk-assessor",
+  "projectType": "library",
+  "tags": ["type:plugin", "scope:aave"],
+  "targets": {}
+}

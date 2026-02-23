@@ -1,0 +1,8 @@
+{
+  "name": "aave-planner",
+  "$schema": "../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "packages/plugins/aave-planner",
+  "projectType": "library",
+  "tags": ["type:plugin", "scope:aave"],
+  "targets": {}
+}

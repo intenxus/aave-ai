@@ -1,0 +1,15 @@
+{
+  "name": "aave-viem-integration",
+  "$schema": "../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "packages/plugins/aave-viem-integration",
+  "projectType": "library",
+  "tags": ["type:plugin", "scope:aave"],
+  "targets": {
+    "lint-markdown": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "npm exec markdownlint-cli2 -- 'packages/plugins/aave-viem-integration/**/*.md'"
+      }
+    }
+  }
+}

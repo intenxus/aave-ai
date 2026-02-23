@@ -1,0 +1,20 @@
+{
+  "name": "aave-viem-integration",
+  "version": "1.0.0",
+  "description": "EVM blockchain integration using viem for AAVE operations",
+  "author": {
+    "name": "AAVE AI Contributors",
+    "email": "contributors@aave-ai.dev"
+  },
+  "homepage": "https://github.com/intenxus/aave-ai",
+  "keywords": [
+    "aave",
+    "defi",
+    "viem",
+    "ethereum",
+    "arbitrum",
+    "blockchain"
+  ],
+  "license": "MIT",
+  "skills": ["./skills/viem"]
+}

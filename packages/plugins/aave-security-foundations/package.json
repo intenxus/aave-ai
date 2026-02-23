@@ -1,0 +1,27 @@
+{
+  "name": "@aave/aave-security-foundations",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Security guidance and audit checklists for AAVE integrations",
+  "author": "AAVE AI Contributors <contributors@aave-ai.dev>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/intenxus/aave-ai.git",
+    "directory": "packages/plugins/aave-security-foundations"
+  },
+  "keywords": [
+    "claude-code",
+    "plugin",
+    "aave",
+    "defi",
+    "security",
+    "audit",
+    "checklist"
+  ],
+  "files": [
+    ".claude-plugin",
+    "skills",
+    "README.md"
+  ]
+}

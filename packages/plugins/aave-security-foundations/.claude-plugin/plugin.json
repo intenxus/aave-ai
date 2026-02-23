@@ -1,0 +1,19 @@
+{
+  "name": "aave-security-foundations",
+  "version": "1.0.0",
+  "description": "Security guidance and audit checklists for AAVE integrations",
+  "author": {
+    "name": "AAVE AI Contributors",
+    "email": "contributors@aave-ai.dev"
+  },
+  "homepage": "https://github.com/intenxus/aave-ai",
+  "keywords": [
+    "aave",
+    "defi",
+    "security",
+    "audit",
+    "checklist"
+  ],
+  "license": "MIT",
+  "skills": ["./skills/security"]
+}

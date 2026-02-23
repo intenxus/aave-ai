@@ -1,0 +1,27 @@
+{
+  "name": "@aave-ai/aave-integration",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Core AAVE V3 integration and transaction execution",
+  "author": "0xWeakSheep <oftiyf@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/intenxus/aave-ai.git",
+    "directory": "packages/plugins/aave-integration"
+  },
+  "keywords": [
+    "claude-code",
+    "plugin",
+    "aave",
+    "defi",
+    "lending",
+    "v3"
+  ],
+  "files": [
+    ".claude-plugin",
+    "skills",
+    "agents",
+    "README.md"
+  ]
+}

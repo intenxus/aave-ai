@@ -1,0 +1,20 @@
+{
+  "name": "aave-risk-assessor",
+  "version": "0.1.0",
+  "description": "Risk assessment and health factor monitoring for AAVE positions",
+  "author": {
+    "name": "0xWeakSheep",
+    "email": "oftiyf@gmail.com"
+  },
+  "homepage": "https://github.com/intenxus/aave-ai",
+  "keywords": [
+    "aave",
+    "defi",
+    "risk",
+    "health-factor",
+    "liquidation"
+  ],
+  "license": "MIT",
+  "skills": ["./skills/aave-risk-assessor"],
+  "agents": []
+}

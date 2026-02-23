@@ -1,0 +1,15 @@
+{
+  "name": "aave-security-foundations",
+  "$schema": "../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "packages/plugins/aave-security-foundations",
+  "projectType": "library",
+  "tags": ["type:plugin", "scope:aave"],
+  "targets": {
+    "lint-markdown": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "npm exec markdownlint-cli2 -- 'packages/plugins/aave-security-foundations/**/*.md'"
+      }
+    }
+  }
+}
